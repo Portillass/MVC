@@ -1,4 +1,3 @@
 # MVC
 
-
-# this project is for nothing!!!
+# haha ulol
